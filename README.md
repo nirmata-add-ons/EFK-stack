@@ -20,4 +20,4 @@ Elasticsearch is a real-time, distributed, and scalable search engine which allo
 5. Create clusters using the cluster type.
 6. If the addon is to be added to a running cluster, create an environment with the name "**fluentd-es**" and choose this environment while deploying the application
 
-###Note: The storage request is 1Gi by default and this application needs dynamic volume provisioning enabled to create a storage volume. Please refer to the "**open-ebs**" repository for more details on integrating openebs as a dynamic volume provisioning in Nirmata
+### Note: The storage request is 1Gi by default and this application needs dynamic volume provisioning enabled to create a storage volume. Please refer to the "**open-ebs**" repository for more details on integrating openebs as a dynamic volume provisioning in Nirmata
